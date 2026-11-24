@@ -1,0 +1,15 @@
+Date,Merchant,Category,Bucket,Amount
+2026-10-01,University Payroll,Income,Income,2650.00
+2026-10-02,Campus View Apartments,Rent,Needs,-925.00
+2026-10-04,Aldi Grocery,Groceries,Needs,-88.40
+2026-10-05,Xcel Energy,Utilities,Needs,-64.20
+2026-10-07,Cloud Storage Pro,Subscription,Wants,-14.99
+2026-10-09,DoorDash,Dining,Wants,-42.50
+2026-10-11,Uber Technologies,Transport,Needs,-26.80
+2026-10-14,Tech Gadget Outlet,Electronics,Wants,-380.00
+2026-10-15,University Payroll,Income,Income,2650.00
+2026-10-18,Trader Joes,Groceries,Needs,-76.15
+2026-10-21,Streaming Bundle Plus,Subscription,Wants,-19.99
+2026-10-21,Streaming Bundle Plus,Subscription,Wants,-19.99
+2026-10-24,Coffee House,Dining,Wants,-18.40
+2026-10-27,Auto Insurance,Insurance,Needs,-115.00
